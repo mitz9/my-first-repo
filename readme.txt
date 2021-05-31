@@ -6,4 +6,4 @@ I'm not interested in gay people unless they are women
 I'm not homosexual
 Hello new-branch
 My line is coke
-My line is something else
+My line is from Cali
