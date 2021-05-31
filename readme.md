@@ -1,29 +1,10 @@
-# This is a large heading
+# Demetri (Mitz)
 
-## This is a smaller heading
+## UMass Amherst Class of '24 
+### BS Mechanical Engineering, Minor in Mathematics and Computer Science
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I'm from Massachusetts
+I work as a bank teller
 
-- This is
-- an unordered
-- list
-
-1. This is
-2. an ordered
-3. list
-
-Here is `some code` in the middle of a sentence.
-
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+Check out my [Monopoly Project](https://github.com/mitz9/Monopoly)
 
